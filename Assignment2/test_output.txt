@@ -1,0 +1,39 @@
+the quick brown fox jumps over the lazy dog.
+now is the time for all good men to come to the aid of their party.
+all i want for christmas is my two front teeth.
+the quick brown fox jumps over a lazy dog.
+Word Count: 44
+Line Count: 4
+## Unique words ##
+the | count = 5
+quick | count = 2
+brown | count = 2
+fox | count = 2
+jumps | count = 2
+over | count = 2
+lazy | count = 2
+dog | count = 2
+now | count = 1
+is | count = 2
+time | count = 1
+for | count = 2
+all | count = 2
+good | count = 1
+men | count = 1
+to | count = 2
+come | count = 1
+aid | count = 1
+of | count = 1
+their | count = 1
+party | count = 1
+i | count = 1
+want | count = 1
+christmas | count = 1
+my | count = 1
+two | count = 1
+front | count = 1
+teeth | count = 1
+a | count = 1
+Unique word count: 29
+Shortest Word: i
+Longest Word: christmas

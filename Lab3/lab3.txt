@@ -1,0 +1,77 @@
+Last login: Thu Sep 20 20:35:32 on ttys000
+MrBarneyStinson:~ doga$ /Users/doga/Downloads/lab2
+?
+This is a declaration of a pointer to a C-string
+###qstr###
+This is a declaration of a pointer to a C-string
+###rstr###
+This is a simple C-string
+Can we change:
+###(Q): str[10] to a new value?
+###Modifying str[10] ###
+###Printing str###
+This is a #imple C-string
+
+###(Q): pstr[10] to a new value?
+(A): error: assigning to 'char' from incompatible type 'const char[2]'
+(A): No - because it's constant variable and cannot be modified.
+
+###(Q) pstr to a different string?
+(A): error: assigning to 'char' from incompatible type 'const char[13]'
+(A): No - because it's constant variable and cannot be modified.
+###Printing pstr###
+This is a declaration of a pointer to a C-string
+
+###(Q) str to a different string?
+(A): Yes - but modifying character one by one.
+###Before###
+This is a #imple C-string
+###After###
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+###(Q): If we change pstr to point to a different string. What happens to qstr?
+###Modifying pstr###
+###Printing changed pstr###
+Hello
+###Printing qstr###
+This is a declaration of a pointer to a C-string
+(A): qstr will point to the old string
+
+###(Q):Can we assign str = "Goodbye" 
+(A): We cannot assign string to a pointer
+
+
+###(Q):If we change rstr[5] to '5', what happens to str?
+###Changing rstr[5]###
+###Printing changed str###
+AAAAA5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+###(Q):If we change str[10] to '8', what happens to rstr?
+###Changing str[10]###
+###Printing changed rstr###
+AAAAA5AAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+###(Q):What happens if you print: pstr
+###Printing pstr###
+Hello
+(A): Prints the char values in the array
+
+###(Q):What happens if you print: *pstr
+###Printing *pstr###
+H
+(A): Prints the first character in the array
+because pointer points to the base of array.
+
+###(Q):What happens if you print: (void *)pstr
+###Printing (void *)pstr###
+0x1074a0c64
+(A): Prints the address
+Address of all the variables
+str:  0x7ffee87619d0
+pstr: 0x1074a0c64
+qstr: 0x1074a0a04
+rstr: 0x7ffee87619d0
+
+
+
+MrBarneyStinson:~ doga$ 

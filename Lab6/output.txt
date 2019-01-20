@@ -1,0 +1,24 @@
+Compare two char data types:  ch1 = H  ch2 = B
+absolute value of ch1: H
+absolute value of ch2: BB is smaller of the two chars
+H is bigger of the two chars
+NOW! lets add a third char to the mix!
+ch3 = a which has an absolute value of aB is the smallest among the three data types
+a is the biggest among the three data types
+
+Compare two int data types: num1 = 28  num2 = 33
+absolute value of num1: 28
+absolute value of num2: 3328 is smaller of the two ints
+33 is bigger of the two ints
+NOW! lets add a third int to the mix!num3 = -2 which has an absolute value of 2
+-2 is the smallest among the three data types
+33 is the biggest among the three data types
+Compare two double data types:  d1 = 2.2  d2 = -1.1
+absolute value of d1: 2.2
+absolute value of d2: 1.1
+-1.1 is smaller of the two doubles
+2.2 is bigger of the two doublesNOW! lets add a third double to the mix!
+d3 = 5.2 which has an absolute value of 5.2
+-1.1 is the smallest among the three data types
+5.2 is the biggest among the three data types
+MrBarneyStinson:Lab6 doga$

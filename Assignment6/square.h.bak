@@ -1,0 +1,12 @@
+#ifndef square_h
+#define square_h
+
+class Square : public Rectangle
+{
+public:
+    double Perimeter();
+    double Area();
+};
+
+#endif //square_h
+

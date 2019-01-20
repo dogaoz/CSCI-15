@@ -1,0 +1,36 @@
+## Employees ##
+Name: Ted, ID: 100, Hire date: 20180622
+Name: Jessie, ID: 0, Hire date: 0
+Name: John, ID: 70, Hire date: 20180304
+Name: Chris, ID: 32, Hire date: 20150204
+Name: Chris, ID: 32, Hire date: 20150204
+Name: NONE, ID: 0, Hire date: 20000101
+Name: NONE, ID: 0, Hire date: 20000101
+## Production Workers ##
+Name: Terry, ID: 50, Hire date: 20181101, Shift: 1, Rate: $20.81
+Name: Amy, ID: 51, Hire date: 20180228, Shift: 2, Rate: $31.83
+Name: Jack, ID: 23, Hire date: 20170223, Shift: 1, Rate: $19.23
+Name: Jennifer, ID: 29, Hire date: 20170506, Shift: 0, Rate: $21.2
+Name: Jennifer, ID: 29, Hire date: 20170506, Shift: 0, Rate: $21.2
+Name: NONE, ID: 0, Hire date: 20000101, Shift: 0, Rate: $15
+Name: NONE, ID: 0, Hire date: 20000101, Shift: 0, Rate: $15
+## TESTING GETTERS FOR EMPLOYEE NO 0 ##
+## Get ID: 100
+## Get Name: Ted
+## Get Date: 20180622
+## CHANGING ID ##
+## Get ID: 4
+## Get Name: Ted
+## Get Date: 20180622
+## TESTING GETTERS FOR PRODUCTION WORKER NO 0 ##
+## Get ID: 50
+## Get Name: Terry
+## Get Date: 20181101
+## Get Rate: 20.81
+## Get Shift: 1
+## CHANGING RATE ##
+## Get ID: 50
+## Get Name: Terry
+## Get Date: 20181101
+## Get Rate: 90
+## Get Shift: 1

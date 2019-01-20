@@ -1,0 +1,140 @@
+Last login: Wed Nov 21 11:02:38 on ttys000
+/Applications/CodeBlocks.app/Contents/MacOS/cb_console_runner DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:. /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/bin/Debug/Assignment7 
+MrBarneyStinson:~ doga$ /Applications/CodeBlocks.app/Contents/MacOS/cb_console_runner DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:. /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/bin/Debug/Assignment7 
+@@@@@@ Accessing the object by object name
+This is a quadrilateral
+( 0, 0 )
+( 3, 0 )
+( 2, 1 )
+( 1, 2 )
+
+Perimeter: 8.0645
+Area: 3
+This is a Trapezoid 
+This is a quadrilateral
+( 0, 0 )
+( 2, 2 )
+( 2, 3 )
+( 0, 5 )
+
+Perimeter: 11.6569
+Area: 2.82843
+This is a Parallelogram
+This is a Trapezoid 
+This is a quadrilateral
+( 0, 0 )
+( 3, 2 )
+( 3, 5 )
+( 0, 3 )
+
+Perimeter: 13.2111
+Area: 10.8167
+This is a Rectangle
+This is a Parallelogram
+This is a Trapezoid 
+This is a quadrilateral
+( 0, 0 )
+( 2, 0 )
+( 2, 1 )
+( 0, 1 )
+
+Perimeter: 6
+Area: 2
+This is a Square
+This is a Rectangle
+This is a Parallelogram
+This is a Trapezoid 
+This is a quadrilateral
+( 0, 0 )
+( 1, 0 )
+( 1, 1 )
+( 0, 1 )
+
+Perimeter: 4
+Area: 1
+@@@@@@ Accessing the object by object pointer
+This is a quadrilateral
+( 0, 0 )
+( 3, 0 )
+( 2, 1 )
+( 1, 2 )
+
+Perimeter: 8.0645
+Area: 3
+This is a quadrilateral
+( 0, 0 )
+( 2, 2 )
+( 2, 3 )
+( 0, 5 )
+
+Perimeter: 11.6569
+Area: 6
+This is a quadrilateral
+( 0, 0 )
+( 3, 2 )
+( 3, 5 )
+( 0, 3 )
+
+Perimeter: 13.2111
+Area: 9
+This is a quadrilateral
+( 0, 0 )
+( 2, 0 )
+( 2, 1 )
+( 0, 1 )
+
+Perimeter: 6
+Area: 2
+This is a quadrilateral
+( 0, 0 )
+( 1, 0 )
+( 1, 1 )
+( 0, 1 )
+
+Perimeter: 4
+Area: 1
+@@@@@@ Accessing the object by object reference
+This is a quadrilateral
+( 0, 0 )
+( 3, 0 )
+( 2, 1 )
+( 1, 2 )
+
+Perimeter: 8.0645
+Area: 3
+This is a quadrilateral
+( 0, 0 )
+( 2, 2 )
+( 2, 3 )
+( 0, 5 )
+
+Perimeter: 11.6569
+Area: 6
+This is a quadrilateral
+( 0, 0 )
+( 3, 2 )
+( 3, 5 )
+( 0, 3 )
+
+Perimeter: 13.2111
+Area: 9
+This is a quadrilateral
+( 0, 0 )
+( 2, 0 )
+( 2, 1 )
+( 0, 1 )
+
+Perimeter: 6
+Area: 2
+This is a quadrilateral
+( 0, 0 )
+( 1, 0 )
+( 1, 1 )
+( 0, 1 )
+
+Perimeter: 4
+Area: 1
+
+Process returned 0 (0x0)   execution time : 0.010 s
+Press ENTER to continue.
+

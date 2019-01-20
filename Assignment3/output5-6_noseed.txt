@@ -1,0 +1,122 @@
+Mouse Location:2 2
+Supplied Parameters:
+0 : ./mouse_island
+1 : map5-6.txt
+2 : output5-6_noseed.txt
+Input File: map5-6.txt
+Output File: output5-6_noseed.txt
+Map: 
+ -1 -1 -1 -1 -1 -1
+ -1  0  0  0  0  0
+ -1  0  0  0  0 -1
+ -1  0  0  0  0 -1
+ -1 -1 -1  0 -1 -1
+escaped at 3 4
+drowning
+drowning
+drowning
+escaped at 5 1
+drowning
+escaped at 5 1
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 3 4
+drowning
+drowning
+drowning
+drowning
+escaped at 3 4
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 3 4
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 5 1
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 3 4
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 3 4
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 3 4
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 5 1
+drowning
+escaped at 5 1
+drowning
+drowning
+drowning
+drowning
+drowning
+Total Escaped: 12
+Total Drowned: 88
+Total Starved: 0
+
+  0  8 11  8  4  0
+  7 26 52 33 15  5
+ 13 59 65 63 19  7
+  9 31 54 36 14  7
+  0  7  7  7  0  0

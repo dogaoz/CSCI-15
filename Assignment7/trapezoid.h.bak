@@ -1,0 +1,11 @@
+#ifndef trapezoid_h
+#define trapezoid_h
+class Trapezoid : public Quadrilateral
+{
+protected:
+    void Validate();
+public:
+    double Perimeter();
+    double Area();
+};
+#endif

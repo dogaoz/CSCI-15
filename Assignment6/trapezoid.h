@@ -1,0 +1,22 @@
+#ifndef trapezoid_h
+#define trapezoid_h
+
+#include "quadrilateral.h"
+class Trapezoid : public Quadrilateral
+{
+protected:
+    void validate();
+    void setDefault();
+public:
+    Trapezoid();
+    Trapezoid(Point &a, Point &b, Point &c, Point &d);
+    double Perimeter();
+    double Area();
+    void print(ostream &out);
+    void read(istream &in);
+
+friend istream &operator >> (istream &in, Trapezoid &t);
+friend ostream &operator << (ostream &out, Trapezoid &t);
+
+};
+#endif

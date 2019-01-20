@@ -1,0 +1,18 @@
+#ifndef quadrilateral_h
+#define quadrilateral_h
+
+#include "point.h"
+
+class Quadrilateral
+{
+    protected:
+        Point points[4];
+        void validate();
+    public:
+        double getX();
+        double getY();
+        double setAll(Point a, Point b, Point c, Point d);
+
+};
+#endif // quadrilateral_h
+

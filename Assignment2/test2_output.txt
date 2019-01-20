@@ -1,0 +1,64 @@
+There are many variations of passages.
+of Lorem Ipsum available but the.
+majority have suffered alteration in.
+some form, by injected humour or.
+randomised words which don't look even.
+slightly believable If you are going.
+to use a passage of Lorem Ipsum, you.
+need to be sure there isn't anything.
+embarrassing hidden in the middle of.
+text.
+Word Count: 57
+Line Count: 10
+## Unique words ##
+There | count = 1
+are | count = 2
+many | count = 1
+variations | count = 1
+of | count = 4
+passages | count = 1
+Lorem | count = 2
+Ipsum | count = 1
+available | count = 1
+but | count = 1
+the | count = 2
+majority | count = 1
+have | count = 1
+suffered | count = 1
+alteration | count = 1
+in | count = 2
+some | count = 1
+form, | count = 1
+by | count = 1
+injected | count = 1
+humour | count = 1
+or | count = 1
+randomised | count = 1
+words | count = 1
+which | count = 1
+don't | count = 1
+look | count = 1
+even | count = 1
+slightly | count = 1
+believable | count = 1
+If | count = 1
+you | count = 2
+going | count = 1
+to | count = 2
+use | count = 1
+a | count = 1
+passage | count = 1
+Ipsum, | count = 1
+need | count = 1
+be | count = 1
+sure | count = 1
+there | count = 1
+isn't | count = 1
+anything | count = 1
+embarrassing | count = 1
+hidden | count = 1
+middle | count = 1
+text | count = 1
+Unique word count: 48
+Shortest Word: a
+Longest Word: embarrassing

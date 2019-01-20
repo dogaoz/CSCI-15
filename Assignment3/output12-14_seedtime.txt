@@ -1,0 +1,137 @@
+Mouse Location:3 3
+Supplied Parameters:
+0 : ./mouse_island
+1 : map12-14.txt
+2 : output12-14_seedtime.txt
+3 : 0
+Input File: map12-14.txt
+Output File: output12-14_seedtime.txt
+Map: 
+  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+  -1   0   0   0   0   0   0   0  -1  -1   0   0   0   0
+  -1   0   0   0   0   0   0   0  -1  -1   0   0   0  -1
+  -1   0   0   0   0   0   0   0  -1  -1   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0  -1
+   0   0   0   0  -1  -1   0   0   0  -1  -1   0   0  -1
+  -1   0   0   0  -1  -1   0   0   0  -1  -1   0   0  -1
+  -1   0   0   0   0   0   0   0   0  -1  -1   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 0 7
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+escaped at 0 7
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+drowning
+Total Escaped: 2
+Total Drowned: 98
+Total Starved: 0
+
+   0   2   3  11   8   8   1   3   0   0   0   0   0   0
+   3  11  20  30  29  25   7   6   0   0   0   0   0   0
+   9  32  50  84  62  38  18  13   4   0   0   0   0   0
+   6  38  84  88  87  43  31  24   4   0   0   0   0   0
+   8  33  76 102  58  34  20  21   9   5   1   0   0   0
+   8  20  43  54  31  33  21  18   7   5   0   0   0   0
+   2   4  14  19  10  20  13  12   6   2   0   0   0   0
+   2   3   7   8   5   6   5   4   2   0   0   0   0   0
+   1   3   6   7   2   0   4   5   2   2   0   0   0   0
+   0   0   0   3   3   3   5   5   0   0   0   0   0   0
+   0   0   0   1   1   0   3   3   0   0   0   0   0   0
+   0   0   0   1   0   0   0   1   0   0   0   0   0   0

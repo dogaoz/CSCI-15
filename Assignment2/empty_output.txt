@@ -1,0 +1,7 @@
+
+Word Count: 0
+Line Count: 1
+## Unique words ##
+Unique word count: 0
+Shortest Word: 
+Longest Word: 

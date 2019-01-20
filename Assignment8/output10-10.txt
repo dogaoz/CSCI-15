@@ -1,0 +1,31 @@
+@ - Impasse (backtracked for solution)
+# - Trace/Solution 
+* - Walls
+Supplied Parameters:
+0 : ./maze
+1 : maze10-10.txt
+2 : output10-10.txt
+Input File: maze10-10.txt
+Output File: output10-10.txt
+Map: 
+        *  *  *  *  *  *  *  *
+  *     *                    *
+  *           *  *  *  *     *
+  *  *  *  *  *              *
+  *                 *  *  *  *
+  *  *  *     *  *  *        *
+  *                    *     *
+  *  *  *  *  *        *     *
+  *                          *
+  *  *  *  *  *  *  *  *      
+Solution Map: 
+  #  #  *  *  *  *  *  *  *  *
+  *  #  *  #  #  #  #  #  #  *
+  *  #  #  #  *  *  *  *  #  *
+  *  *  *  *  *  #  #  #  #  *
+  *        #  #  #  *  *  *  *
+  *  *  *  #  *  *  *        *
+  *  @  @  #  #  #     *     *
+  *  *  *  *  *  #  #  *     *
+  *  @  @  @  @  @  #  #  #  *
+  *  *  *  *  *  *  *  *  #  #

@@ -1,0 +1,21 @@
+
+./mouse_island map4-4.txt output4-4_noseed.txt 
+./mouse_island map4-4.txt output4-4_seedtime.txt 0
+./mouse_island map4-4.txt output4-4_seednumber.txt 243765
+
+./mouse_island map5-6.txt output5-6_noseed.txt
+./mouse_island map5-6.txt output5-6_seedtime.txt 0
+./mouse_island map5-6.txt output5-6_seednumber.txt 432
+
+./mouse_island map12-14.txt output12-14_noseed.txt
+./mouse_island map12-14.txt output12-14_seedtime.txt 0
+./mouse_island map12-14.txt output12-14_seednumber.txt 132
+
+./mouse_island map15-18.txt output15-18_noseed.txt
+./mouse_island map15-18.txt output15-18_seedtime.txt 0
+./mouse_island map15-18.txt output15-18_seednumber.txt 9
+
+./mouse_island map20-20.txt output20-20_noseed.txt
+./mouse_island map20-20.txt output20-20_seedtime.txt 0
+./mouse_island map20-20.txt output20-20_seednumber.txt 57
+

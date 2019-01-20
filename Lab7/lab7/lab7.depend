@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1542086691 source:/Users/doga/Chabot-Year1-Semester2/CS15/Lab7/employee.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"employee.h"
+
+1542086692 /Users/doga/Chabot-Year1-Semester2/CS15/Lab7/employee.h
+	<iostream>
+	<fstream>
+	<string>
+
+1542157888 source:/Users/doga/Chabot-Year1-Semester2/CS15/Lab7/gustafson_lab07.cpp
+
+1542086692 source:/Users/doga/Chabot-Year1-Semester2/CS15/Lab7/productionworker.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"productionworker.h"
+
+1542086688 /Users/doga/Chabot-Year1-Semester2/CS15/Lab7/productionworker.h
+	<iostream>
+	<fstream>
+	<string>
+	"employee.h"
+
+1542169652 source:/Users/doga/Chabot-Year1-Semester2/CS15/Lab7/lab7/main.cpp
+	<iostream>
+	<fstream>
+	"employee.h"
+	"productionworker.h"
+
+1542169491 /Users/doga/Chabot-Year1-Semester2/CS15/Lab7/lab7/employee.h
+	<iostream>
+	<fstream>
+	<string>
+
+1542169469 /Users/doga/Chabot-Year1-Semester2/CS15/Lab7/lab7/productionworker.h
+	"employee.h"
+
+1542169530 source:/Users/doga/Chabot-Year1-Semester2/CS15/Lab7/lab7/employee.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"employee.h"
+
+1542169571 source:/Users/doga/Chabot-Year1-Semester2/CS15/Lab7/lab7/productionworker.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"productionworker.h"
+

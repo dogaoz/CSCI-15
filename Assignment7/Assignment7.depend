@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1542049489 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/helper_functions.cpp
+	<cmath>
+
+1542824926 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/parallelogram.cpp
+	"helper_functions.h"
+	"parallelogram.h"
+
+1542827054 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/helper_functions.h
+
+1542823768 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/parallelogram.h
+	"trapezoid.h"
+
+1542824978 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/trapezoid.h
+	"quadrilateral.h"
+
+1542826275 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/quadrilateral.h
+	<cmath>
+	"point.h"
+	"helper_functions.h"
+
+1542770731 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/point.h
+	<iostream>
+
+1542388718 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/point.cpp
+	<iostream>
+	<cmath>
+	"point.h"
+
+1542824930 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/quadrilateral.cpp
+	"helper_functions.h"
+	"quadrilateral.h"
+
+1542824933 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/rectangle.cpp
+	"helper_functions.h"
+	"rectangle.h"
+
+1542823718 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/rectangle.h
+	"parallelogram.h"
+
+1542824935 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/square.cpp
+	"helper_functions.h"
+	"square.h"
+
+1542823705 /Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/square.h
+	"rectangle.h"
+
+1542826878 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/trapezoid.cpp
+	"helper_functions.h"
+	"trapezoid.h"
+
+1542826512 source:/Users/doga/Chabot-Year1-Semester2/CS15/Assignment7/main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	"quadrilateral.h"
+	"trapezoid.h"
+	"parallelogram.h"
+	"rectangle.h"
+	"square.h"
+
